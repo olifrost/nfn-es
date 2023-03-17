@@ -12,7 +12,7 @@ Son muchos los que se arrepienten de no haber invertido pronto en Bitcoin, despu
 
 Sin embargo, según una encuesta de Coinbase realizada a los primeros titulares de bitcoin, más del 92% de esos inversores iniciales perdieron dinero. 
 
-La combinación de un mercado volátil, la proliferación de «altcoins» y los ataques informáticos hizo que pocos se beneficiaran de la revalorización. 
+La combinación de un mercado volátil, la proliferación de "altcoins" y los ataques informáticos hizo que pocos se beneficiaran de la revalorización. 
 
 Si bien estas noticias no aportan confianza a los propietarios de bitcoin, quizá ayuden a dormir mejor a quienes sienten haberse quedado al margen.
 

@@ -3,7 +3,7 @@ layout: post
 title: La cría de unicornios reales
 image: /img/unicorn-breed.jpg
 tags: Grandes hitos
-description: Los criadores utilizan genes de rinoceronte para crear «supercaballos».
+description: Los criadores utilizan genes de rinoceronte para crear "supercaballos".
 ---
 
 En África Occidental, un nuevo programa de cruces ha permitido a los criadores crear auténticos unicornios. El objetivo es explorar formas que favorezcan a los animales en su hábitat natural.
