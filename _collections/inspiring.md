@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: Inspiring
-tag: Inspiring
+title: Inspiración
+tag: Inspiración
 ---

@@ -59,134 +59,132 @@ Donate
 
 <table>
   <thead>
-    <tr>
-      <th>Name</th>
-      <th>Donation</th>
-      <th>Time</th>
-      <th>Location</th>
-      <th>Reach (Approx)</th>
-    </tr>
+      <th>Nombre</th>
+      <th>Donación</th>
+      <th>Tiempo</th>
+      <th>Ubicación</th>
+      <th>Alcance (Aprox)</th>
   </thead>
   <tbody>
   <tr>
-    <td>Anon</td>
+    <td>Anón</td>
     <td>£1,099.98</td>
     <td>29/06 12:14:05</td>
-    <td>Russia</td>
+    <td>Rusia</td>
     <td>110,000</td>
   </tr>
   <tr>
-    <td>Anon</td>
+    <td>Anón</td>
     <td>£1,099.98</td>
     <td>28/06 10:12:56</td>
-    <td>Russia</td>
+    <td>Rusia</td>
     <td>100,000</td>
   </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£699.97</td>
       <td>20/06 09:52:36</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>70,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£299.95</td>
       <td>22/06 03:42:12</td>
-      <td>Korea</td>
+      <td>Corea</td>
       <td>30,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£249.96</td>
       <td>29/06 02:01:09</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>25,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£199.95</td>
       <td>23/06 02:20:10</td>
-      <td>Korea</td>
+      <td>Corea</td>
       <td>20,000</td>
     </tr>
 
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£99.97</td>
       <td>28/06 23:32:11</td>
       <td>China</td>
       <td>10,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£49.98</td>
       <td>27/06 07:22:33</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>5,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£19.96</td>
       <td>29/06 22:23:03</td>
       <td>China</td>
       <td>2,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£9.96</td>
       <td>27/06 09:02:47</td>
       <td>China</td>
       <td>1,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£9.97</td>
       <td>27/06 08:04:21</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>1,000</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£4.98</td>
       <td>27/06 12:05:32</td>
-      <td>Philippines</td>
+      <td>Filipinas</td>
       <td>500</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£4.97</td>
       <td>28/06 02:09:32</td>
-      <td>Philippines</td>
+      <td>Filipinas</td>
       <td>500</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£4.97</td>
       <td>27/06 11:08:58</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>500</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£4.98</td>
       <td>27/06 08:07:11</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>500</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£4.98</td>
       <td>26/06 05:24:21</td>
-      <td>Russia</td>
+      <td>Rusia</td>
       <td>500</td>
     </tr>
     <tr>
-      <td>Anon</td>
+      <td>Anón</td>
       <td>£2.98</td>
       <td>27/06 09:08:15</td>
-      <td>Korea</td>
+      <td>Corea</td>
       <td>500</td>
     </tr>
-  </tbody>
+
 </table>
