@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Hombre con cinco riñones dona tres
-image: /img/hombre-de-siete-riñones.jpg
+image: /img/seven-kidney-man.jpg
 tags: Inspiración
-redirectfrom: "/hombre-con-siete-riñones/"
 description: Entre los receptores había una madre de cinco hijos, una niña de siete años y un jubilado.
 
 ---

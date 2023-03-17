@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friends", una nueva versión sin homofobia
+title: "Friends, una nueva versión sin homofobia"
 image: /img/friends.jpg
 tags: Inspiración
 description: Netflix lanza nuevas ediciones de viejas series.
