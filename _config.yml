@@ -1,0 +1,59 @@
+# Permalinks
+permalink:           :slug/
+
+# Setup
+title:               NFN World News - Breaking News, World News, Entertainment
+tagline:             Nice Fake News
+description:         "NFN is a Nice Fake News site created by Russian hackers. We share only the most heart-warming and inspiring lies. And seed them by whatever means necessary…"
+footer:              Oli Frost
+logo:                /img/nfn-preview.png
+tags:
+video:               PPwZPhOHRgg
+url:                 https://olifro.st/nfn-es
+
+# Markdown
+collections:
+  collections:
+    output: true
+    permalink: :title/
+
+# SASS
+sass:
+  sass_dir:          _sass
+  style:            compressed
+
+# Google Analytics
+analytics_id:  UA-111749648-1
+
+# SEO
+author:
+  name: Oli Frost
+  twitter: olifro_st
+  email: mail@olifro.st
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: img/nfn.png
+
+twitter:
+  username: nicefakenews
+
+facebook:
+  username: nicefakenews
+
+social:
+  name: Nice Fake News
+  links:
+    - https://www.facebook.com/realolifrost/
+    - https://twitter.com/olifro_st
+# Excludes
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from

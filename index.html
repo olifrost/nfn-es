@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: /
+image: /img/nfn-preview.png
+description: "NFN is a Nice Fake News site created by a Russian hacking group. We share only the most heart-warming and inspiring lies. And seed them by whatever means necessary…"
+---
+
+{% include project-list.html limit="9" %}
+
+<script type="text/javascript">
+
+function timeout_trigger() {
+    document.getElementById("play-button").click();
+  }
+function timeout_init() {
+  setTimeout('timeout_trigger()', 3000);
+}
+
+window.onload = function () {
+    if (localStorage.getItem("hasCodeRunBefore") === null) {
+
+
+        timeout_init();
+        localStorage.setItem("hasCodeRunBefore", true);
+    }
+}
+
+</script>
