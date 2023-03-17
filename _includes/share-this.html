@@ -1,6 +1,6 @@
 <div>
 	<span id="share-container">
-	<span class="shares" id="shares"><span id="thesharecount" class="sharecount"></span> <span class="shares-word">shares</span></span>
+	<span class="shares" id="shares"><span id="thesharecount" class="sharecount"></span> <span class="shares-word">acciones</span></span>
 	<a class="share-button twitter" href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;via={{ twitter.username }}" target="_blank"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
 	<a class="share-button facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><span class="icon icon--twitter">{% include icon-facebook.svg %}</span></a>
 </span>
