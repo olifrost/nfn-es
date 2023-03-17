@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Una heroica oveja salva a un cordero de un acantilado
-image: /img/oveja-heroica.jpg
+image: /img/heroic-sheep.jpg
 tags: Inspiración
 description: Las autoridades locales trabajarán más para prevenir la erosión costera.
 ---

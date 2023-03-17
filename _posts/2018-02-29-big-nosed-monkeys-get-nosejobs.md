@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Los monos narigudos se operan la nariz
-image: /img/nariz-de-mono.jpg
+image: /img/monkey-nose.jpg
 tags: Inspiración
 description: Los lugareños financian una operación para la población autóctona.
 
