@@ -13,6 +13,6 @@ El joven, que conocía el valor actual de la criptomoneda, llevó inmediatamente
 
 Añadió además que no sabía cómo había perdido la cartera, pero que le sorprendió la amabilidad de la acción:   
 
->«Con todas las historias tristes que aparecen en las noticias en estos momentos, es fácil olvidar lo amable y generosa que puede llegar a ser la gente. Me hizo pensar en qué más podría hacer para dar algo a un mundo que ya ha sido tan bueno conmigo».
+>"Con todas las historias tristes que aparecen en las noticias en estos momentos, es fácil olvidar lo amable y generosa que puede llegar a ser la gente. Me hizo pensar en qué más podría hacer para dar algo a un mundo que ya ha sido tan bueno conmigo".
 
 Tribe declaró a NFN que la generosidad del joven la había inspirado a donar alrededor del 10% de sus fondos a organizaciones benéficas locales.

@@ -8,7 +8,7 @@ description:  Un implante revolucionario podría estar disponible muy pronto.
 
 Duquesita, Tigre y Coco nacieron con una enfermedad genética que los dejó ciegos al nacer.
 
-Incapaces de comunicarse entre sí más allá de un triste «miau», los gatitos no tardaron en sentirse solos e infelices.
+Incapaces de comunicarse entre sí más allá de un triste "miau", los gatitos no tardaron en sentirse solos e infelices.
 
 Pero gracias a un nuevo implante, los médicos han podido devolver parcialmente la vista a Duquesita, Tigre y Coco.
 

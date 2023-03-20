@@ -15,6 +15,6 @@ Tras hacerse públicos los resultados, la población local decidió intervenir p
 
 Desde la operación, muchos de los monos han podido volver a sus manadas y encontrar nuevas parejas.
 
-Una mona, Imala, dio a luz a su primera cría la semana pasada. Los lugareños, que conocían bien la manada, informaron de que la pareja de Imala probablemente habría estado «fuera de su alcance» antes de la cirugía.
+Una mona, Imala, dio a luz a su primera cría la semana pasada. Los lugareños, que conocían bien la manada, informaron de que la pareja de Imala probablemente habría estado "fuera de su alcance" antes de la cirugía.
 
 En el pueblo más cercano se ha convocado un concurso para poner nombre a la nueva cría y se espera que nazcan más para finales de año.

@@ -14,7 +14,7 @@ Sin embargo, a quienes se ven diariamente atrapados en atascos les reconfortará
 
 Hay varios factores en juego: una mejor planificación urbana, el descenso del número de propietarios de automóviles y el desarrollo de aplicaciones de GPS que envían los coches por rutas alternativas en función de la congestión de las carreteras.
 
-Pero lo más sorprendente es que un laboratorio universitario de Cambridge cree que estamos más cerca de lo que pensamos de desarrollar el teletransporte como medio de desplazamiento. De momento, las pruebas con ratones sólo han dado resultado en distancias cortas (del exterior al interior de un laberinto) y no es un proceso instantáneo. Consiste en la evaporación de la materia en un extremo y su reconstrucción en el otro, mediante un mecanismo que denominan «reajuste cuántico».
+Pero lo más sorprendente es que un laboratorio universitario de Cambridge cree que estamos más cerca de lo que pensamos de desarrollar el teletransporte como medio de desplazamiento. De momento, las pruebas con ratones sólo han dado resultado en distancias cortas (del exterior al interior de un laberinto) y no es un proceso instantáneo. Consiste en la evaporación de la materia en un extremo y su reconstrucción en el otro, mediante un mecanismo que denominan "reajuste cuántico".
 
 Los científicos de Cambridge creen que podrían llevar ratones hasta Bury St. Edmunds (a 45 km) para finales del año que viene y que poco después comenzarían los ensayos con humanos.
 

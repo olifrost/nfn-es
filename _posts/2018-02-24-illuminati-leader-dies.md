@@ -12,8 +12,8 @@ Sin embargo, una fuente encubierta fiable afirma que el grupo ha entrado ahora e
 
 El envenenamiento con Novichok ha sido utilizado recientemente por los rusos para eliminar a antiguos espías y agentes residentes en el extranjero, como se manifestó en los últimos atentados de Salisbury (Reino Unido). El ex-detective encubierto de Scotland Yard, Peter Bleksley, fue cuestionado al respecto, respondiendo que la presencia de Novichok podría indicar que los rusos y los Illuminati estarían en guerra entre sí.
 
-> «La base de la teoría es el propio papel de los rusos en influir en las elecciones de Estados Unidos y en el referéndum del Reino Unido. Ambos grupos están luchando por la injerencia política sobre los asuntos de ultramar».
+> "La base de la teoría es el propio papel de los rusos en influir en las elecciones de Estados Unidos y en el referéndum del Reino Unido. Ambos grupos están luchando por la injerencia política sobre los asuntos de ultramar".
 
-Bleksley cree que una guerra entre los rusos y los Illuminati podría ser lo mejor para todos, con la esperanza de que «estas dos peligrosas partes puedan aniquilarse mutuamente».
+Bleksley cree que una guerra entre los rusos y los Illuminati podría ser lo mejor para todos, con la esperanza de que "estas dos peligrosas partes puedan aniquilarse mutuamente".
 
 En el momento de escribir estas líneas poco más se sabe sobre la muerte de Weishaupt. Se espera que sus familiares emitan un comunicado en la prensa mañana por la mañana.

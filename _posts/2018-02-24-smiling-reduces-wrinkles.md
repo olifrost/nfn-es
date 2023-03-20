@@ -18,4 +18,4 @@ Según Glashofer, el papel de la sonrisa en la reducción del estrés y los bene
 
 El cantante Pharrel Williams también apuesta por la sonrisa como método antiedad. Tras su aparición en el videoclip de Happy (2013) muchos se preguntaron cómo el cantante podía seguir pareciendo tan joven a sus 45 años. En una entrevista a Rolling Stone dijo:
 
-> «Puede parecer una locura lo que voy a decir. Pero cuanto más feliz eres más joven pareces, y más joven te sientes también. Puedes ponerte todas las cremas que quieras, pero ninguna te hará tanto bien como una sonrisa».
+> "Puede parecer una locura lo que voy a decir. Pero cuanto más feliz eres más joven pareces, y más joven te sientes también. Puedes ponerte todas las cremas que quieras, pero ninguna te hará tanto bien como una sonrisa".

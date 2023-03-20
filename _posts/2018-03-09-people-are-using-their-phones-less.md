@@ -16,6 +16,6 @@ De media, cada minuto que pasamos con nuestro teléfono supone 1 minuto de uso p
 
 Pero más allá de los efectos sobre la salud, Vanessa Bobinton, socióloga del centro de investigación, cree que el cambio forma parte de un cambio generalizado en las preferencias de los consumidores:
 
-> «La gente busca experiencias más reales y tangibles. Las recompensas a corto plazo de "Me gusta" y "Comentarios" están perdiendo el atractivo que antaño mantenía a la gente pegada a sus móviles».
+> "La gente busca experiencias más reales y tangibles. Las recompensas a corto plazo de "Me gusta" y "Comentarios" están perdiendo el atractivo que antaño mantenía a la gente pegada a sus móviles".
 
 Si la tendencia se mantiene el año que viene, los investigadores creen que empezaremos a ver repercusiones tanto en la economía como en el bienestar social del país.
