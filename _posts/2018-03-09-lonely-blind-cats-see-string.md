@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gatitos ciegos ven hilo por primera vez
-image: /img/penguin-twins.jpg
+image: /img/blind-cat.jpg
 tags: Grandes hitos
 description:  Un implante revolucionario podría estar disponible muy pronto.
 ---

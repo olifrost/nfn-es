@@ -169,7 +169,7 @@ var replace = new ReplaceMe({
   function updateClock ( clock ) {
 
     var dateWithoutSecond = new Date();
-    clock.innerHTML = dateWithoutSecond.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+    clock.innerHTML = dateWithoutSecond.toLocaleTimeString("es-ES", {hour: '2-digit', minute:'2-digit'});
   }
 
   setInterval(function () {
@@ -178,6 +178,7 @@ var replace = new ReplaceMe({
 
 }());
 </script>
+
 
 {% if page.videos != nil %}
 <script>

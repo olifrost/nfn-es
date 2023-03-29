@@ -31,7 +31,7 @@ a {
 
 *Las donaciones se usan para promocionar publicaciones en tus redes sociales corruptas.*
 
-Con solo 1 euro engañarás a más de 100 personas con algo bonito.
+Con sólo 1 euro engañarás a más de 100 personas con algo bonito.
 
 Y aparecerás en la lista junto a nuestros otros inversores offshore.
 

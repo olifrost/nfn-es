@@ -15,7 +15,9 @@ var thesharecount = shareCounters[0];
 var count = Math.floor(Math.random() * 2000) + 1000;
 var beforecount = count - 50;
 
-var numAnim = new CountUp("thesharecount", beforecount, count);
+var numAnim = new CountUp("thesharecount", beforecount, count, {
+  decimal: '.'
+});
 numAnim.start();
 
 function tick(){

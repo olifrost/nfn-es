@@ -13,7 +13,7 @@ Los órganos extra estaban alojados en su cavidad abdominal, detrás de los dos 
 
 El Sr. Downing no supo que padecía esta enfermedad hasta que se sometió a una radiografía en septiembre del año pasado, tras una pequeña lesión de cadera. Al enterarse de la larga lista de espera en su localidad, Downing decidió rápidamente donar los tres riñones de repuesto. 
 
-Afirmó que echaría de menos las resacas más cortas de las que había disfrutado durante la mayor parte de su vida, pero se alegró de pode aportar algo valioso a su comunidad.
+Afirmó que echaría de menos las resacas más cortas de las que había disfrutado durante la mayor parte de su vida, pero se alegró de poder aportar algo valioso a su comunidad.
 
 La operación tuvo lugar en Denver (Colorado, Estados Unidos) y duró menos de cuatro horas. Entre los receptores había una madre de cinco hijos, una niña de 7 años y un jubilado.
 

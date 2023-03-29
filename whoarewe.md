@@ -49,7 +49,7 @@ a {
 
 Somos un grupo de hackers rusos que difunden <a href="/" >noticias falsas agradables</a>.
 
-Compartimos solo las mentiras más entrañables e inspiradoras.
+Compartimos sólo las mentiras más entrañables e inspiradoras.
 
 Y las propagamos por <a style="cursor: pointer;" onclick="window.scrollTo(0, 700);">cualquier medio necesario...</a>.
 
@@ -100,13 +100,13 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
 
-  document.getElementById("thecountdown").innerHTML =  hours + ":"
-  + minutes + ":" + seconds;
+  document.getElementById("thecountdown").innerHTML =  horas + ":"
+  + minutos + ":" + segundos;
 
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("thecountdown").innerHTML = "24 hours";
+    document.getElementById("thecountdown").innerHTML = "24 horas";
   }
 }, 1000);
 </script>
