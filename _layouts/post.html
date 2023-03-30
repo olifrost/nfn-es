@@ -20,8 +20,13 @@ title: NFN
               <span class="post-author">Por <a href="http://olifro.st">Oli Frost</a>, NFN</span><br>
               <time id="date" class="date icon--timestamp el-timestamp"> Actualizado
                 <script>
-                    var d = new Date();
-                    document.getElementById("date").innerHTML = " Updated " + d.toDateString();;
+                  var d = new Date();
+                  document.getElementById("date").innerHTML = "Actualizado " + d.toLocaleDateString("es-ES", {
+                    weekday: 'short',
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric'
+                  });
                 </script>
               </time>
           </p>
