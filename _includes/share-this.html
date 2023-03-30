@@ -6,24 +6,21 @@
 </span>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/countup.js/2.6.0/countUp.min.js" integrity="sha512-aoP9n7cIWJP170btzyppFyOdC5JqH5pumvgc+QIJ/Noq4zOGlySXy9eShi8sQ11N2BvV+JRUvXKjVj/JPHzzBQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 <script type="text/javascript">
-var shareCounters = document.getElementsByClassName('sharecount');
-var thesharecount = shareCounters[0];
-
-var count = Math.floor(Math.random() * 2000) + 1000;
-var beforecount = count - 50;
-
-var numAnim = new CountUp(thesharecount, beforecount, count, {
-  separator: '.'
-});
-numAnim.start();
-
-function tick() {
-  count += Math.round(Math.random() * 3);
-  numAnim.update(count);
-  setTimeout(tick, Math.round(3000 + Math.random() * 2000));
+function generateRandomNumber(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-tick();
+
+function updateShareCounters() {
+  var shareCounters = document.getElementsByClassName('sharecount');
+  var randomNumber = generateRandomNumber(1000, 4000);
+
+  for (var i = 0; i < shareCounters.length; i++) {
+    shareCounters[i].textContent = randomNumber;
+  }
+}
+
+updateShareCounters();
 
 </script>
