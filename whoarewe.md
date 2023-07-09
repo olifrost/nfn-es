@@ -47,14 +47,14 @@ a {
 </style>
 
 
-Somos un grupo de hackers rusos que difunden <a href="/" >noticias falsas agradables</a>.
+Somos un grupo de hackers rusos que difunden <a href="" >noticias falsas agradables</a>.
 
 Compartimos sólo las mentiras más entrañables e inspiradoras.
 
 Y las propagamos por <a style="cursor: pointer;" onclick="window.scrollTo(0, 700);">cualquier medio necesario...</a>.
 
 
-Las historias se publican primero en [NFN (Nice Fake News)](https://olifro.st/nfn-es).
+Las historias se publican primero en NFN (Nice Fake News)
 
 Después, se promocionan en vuestras redes sociales corruptas <a href="{{ "/donate " | relative_url }}">empleando financiación offshore</a>.
 
@@ -74,7 +74,7 @@ Atentamente,
 <a href="http://olifro.st" class="russian">Оли Фрост</a>  
 El simpático hacker ruso
 
-[>> Ir a NFN (Nice Fake News)](https://olifro.st/nfn-es)
+>> Ir a NFN (Nice Fake News)
 
 
 
