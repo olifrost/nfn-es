@@ -36,7 +36,7 @@ Con sólo 1 euro engañarás a más de 100 personas con algo bonito.
 Y aparecerás en la lista junto a nuestros otros inversores offshore.
 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal">
+<form action="" method="post" target="_top" id="paypal">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="N785TSQLFQG3Q">
 <button class="button-clear">
