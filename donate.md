@@ -37,7 +37,7 @@ Y aparecerás en la lista junto a nuestros otros inversores offshore.
 
 
 <form action="" method="" target="_top" id="paypal">
-<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="" value="">
 <input type="hidden" name="hosted_button_id" value="">
 <button class="button-clear">
 <span class="button-icon inline-icon baseline">
