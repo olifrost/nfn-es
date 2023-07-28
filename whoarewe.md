@@ -71,14 +71,8 @@ De lo contrario, difundiremos otra noticia falsa.
 Hasta entonces, comparte un artículo y reparte un poco de alegría.
 
 Atentamente,
-<a href="http://olifro.st" class="russian">Оли Фрост</a>  
+<a href="" class="russian">Оли Фрост</a>  
 El simpático hacker ruso
-
->> Ir a NFN (Nice Fake News)
-
-
-
-
 
 <script type="text/javascript">
 
